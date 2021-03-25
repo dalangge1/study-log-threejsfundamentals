@@ -4,9 +4,9 @@
 
 每天一篇的阅读，同时看看 three 的源码实现
 
-2021-3-18: 立项
-2021-3-21: Basis（立项之后就鸽了两天，原神的时间得压缩了
-2021-3-22: Primitives（浏览了一下所罗列的 Geometry
-2021-3-23: Scenegraph
-2021-3-24: Materials
-2021-3-25: Textures
+2021-3-18: 立项\
+2021-3-21: Basis（立项之后就鸽了两天，原神的时间得压缩了\
+2021-3-22: Primitives（浏览了一下所罗列的 Geometry\
+2021-3-23: Scenegraph\
+2021-3-24: Materials\
+2021-3-25: Textures\
