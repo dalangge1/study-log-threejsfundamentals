@@ -24,7 +24,7 @@ the sky color if the surface of the object is pointing up and the ground color i
 
 ### RectAreaLight
 
-方形的荧光灯？只作用于 MeshStandardMaterial 和 MeshPhysicalMaterial
+矩形形的荧光灯？只作用于 MeshStandardMaterial 和 MeshPhysicalMaterial
 
 #### physicallyCorrectLights
 
