@@ -28,7 +28,8 @@ const saveBlob = (function () {
 })();
 ```
 
-另一种解决办法是 preserveDrawingBuffer: true，同时也需要告诉 three 不自动 clear canvas
+### Preventing the canvas being cleared
+
 Let's say you wanted to let the user paint with an animated object. You need to pass in preserveDrawingBuffer: true when you create the WebGLRenderer. This prevents the browser from clearing the canvas. You also need to tell three.js not to clear the canvas as well.
 
 ```js
