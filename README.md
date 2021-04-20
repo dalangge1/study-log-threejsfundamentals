@@ -19,3 +19,4 @@
 2021-4-12: Debugging JavaScript\
 2021-4-13: Debugging GLSL\
 2021-4-14: Taking A Screenshot of the Canvas\
+2021-4-20: Optimize Lots of Objects\
